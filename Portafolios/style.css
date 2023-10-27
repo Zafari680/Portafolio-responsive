@@ -1,0 +1,53 @@
+@media (max-width: 600px) {
+    body {
+      background-color: #87ceeb;
+    }
+  }
+  @media (max-width: 600px) {
+    img, p {
+      width: 100%;
+    }
+  }
+  
+
+.fondo{
+    background-image: url("https://st.depositphotos.com/2235295/2689/i/450/depositphotos_26891681-stock-photo-futuristic-abstract-background-with-blue.jpg");
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+.Co{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+.jinete1,.jinete2,.jinete3,.jinete4{
+    text-decoration: none;
+ font-size: large;
+ font-family: arial;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+
+}
+
+.uno{
+    border-radius: 20%;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.relleno{
+    text-decoration: white;
+    font-size: 2em; 
+    text-align: center
+}
+
+.unicos{
+  left: 690px;
+}
